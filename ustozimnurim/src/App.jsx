@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-50 flex items-center justify-center p-6">
       <div className="max-w-2xl w-full bg-white rounded-xl shadow-md p-8">
-        <h1 className="text-3xl font-bold text-center text-sky-600">
+        <h1 className=" size-[12px]  font-bold text-center text-sky-600 ">
           ustozim nurim loyihasi, tez orada!
         </h1>
         <p className="mt-4 text-gray-600 text-center"></p>
