@@ -11,7 +11,7 @@ export default function App() {
         <div className="mt-6 flex justify-center">
           <a
             className="px-4 py-2 bg-sky-500 text-white rounded hover:bg-sky-600 "
-            href="#"
+            href="https://www.instagram.com/ustozimnurim/"
           >
             nicemi 😊
           </a>
