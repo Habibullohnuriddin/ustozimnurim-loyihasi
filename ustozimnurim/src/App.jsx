@@ -13,10 +13,25 @@ export default function App() {
             className="px-4 py-2 bg-sky-500 text-white rounded hover:bg-sky-600 "
             href="https://www.instagram.com/ustozimnurim/"
           >
-            nicemi 😊
+            nicemi? 😊
           </a>
+
+          <div className="instagram__wrapper">
+            <blockquote
+              class="instagram-media"
+              data-instgrm-permalink="https://www.instagram.com/ustozimnurim"
+              data-instgrm-version="14"
+            ></blockquote>
+
+            <blockquote
+              class="instagram-media"
+              data-instgrm-permalink="https://www.instagram.com/habibullohnuriddin"
+              data-instgrm-version="14"
+            ></blockquote>
+          </div>
         </div>
       </div>
+      <script async src="https://www.instagram.com/embed.js"></script>
     </div>
   );
 }
